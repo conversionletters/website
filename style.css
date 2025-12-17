@@ -85,7 +85,7 @@ body {
 }
 
 .logo {
-    height: 50px;
+    height: 40px;
     width: auto;
 }
 
@@ -975,8 +975,8 @@ body {
     background: rgba(255, 255, 255, 0.9);
     backdrop-filter: blur(20px);
     border: 1px solid rgba(255, 255, 255, 0.2);
-    border-radius: 24px;
-    padding: 25px;
+    border-radius: 5px;
+    padding: 50px 30px;
     width: 100%;
     box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
     0 10px 10px -5px rgba(0, 0, 0, 0.04);
@@ -1018,7 +1018,7 @@ body {
 
 .header {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 }
 
 .title {
@@ -1032,14 +1032,14 @@ body {
 
 
 .form-group {
-  margin-bottom: 24px;
+  margin-bottom: 30px;
   position: relative;
 }
 
 .form-group.double {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 16px;
+  gap: 25px;
 }
 
 label {
@@ -1246,7 +1246,7 @@ textarea {
 }
 
 .footer-logo {
-    height: 50px;
+    height: 40px;
     width: auto;
 }
 
